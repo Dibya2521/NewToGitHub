@@ -7,3 +7,5 @@ Note  red text - untracked
 	green text - tracked
 
 3. Commit - photo kichwao
+
+testing purpose
