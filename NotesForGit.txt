@@ -1,0 +1,9 @@
+Barati Analogy
+1. Status - kon kon photo liya hain ya nahi
+2. Staging - (git add <file_name>) jisko photo khichwana hain stage pe aao	
+	Unstage - (git rm --cached <file>)
+
+Note  red text - untracked
+	green text - tracked
+
+3. Commit - photo kichwao
